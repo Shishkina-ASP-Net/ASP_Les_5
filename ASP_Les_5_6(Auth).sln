@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35913.81 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_Les_5", "ASP_Les_5\ASP_Les_5.csproj", "{89590907-D4DA-4BAB-8FD1-CA63F434C123}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_Les_5_6(Auth)", "ASP_Les_5\ASP_Les_5_6(Auth).csproj", "{89590907-D4DA-4BAB-8FD1-CA63F434C123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
